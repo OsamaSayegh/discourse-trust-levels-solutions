@@ -1,0 +1,5 @@
+en:
+  site_settings:
+    tl1_requires_solutions_count: "How many topics a TL0 user must solve before promotion to TL1."
+    tl2_requires_solutions_count: "How many topics a TL1 user must solve before promotion to TL2."
+    tl3_requires_solutions_count: "How many topics a TL2 user must solve before promotion to TL3."
